@@ -1,0 +1,14 @@
+//使高度可配置
+.height-configurable {
+
+  //输入框
+  .el-input__inner {
+    height: 100% !important;
+  }
+}
+
+
+th {
+  background-color: rgb(219, 226, 241) !important;
+  color: rgb(51, 70, 103) !important;
+}

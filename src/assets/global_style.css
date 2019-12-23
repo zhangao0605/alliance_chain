@@ -1,0 +1,72 @@
+/* elementUI 字体标准 */
+/* 主标题 */
+.tcw_main_title {
+  color: rgb(125, 70 ,245);
+  font-size: 20px;
+}
+
+/* 标题 */
+.tcw_title {
+  color: rgb(125, 70 ,245);
+  font-size: 18px;
+}
+
+/* 小标题 */
+.tcw_subtitle {
+  color: rgb(125, 70 ,245);
+  font-size: 16px;
+}
+
+/* 正文 */
+.tcw_text {
+  color: rgb(125, 70 ,245);
+  font-size: 14px;
+}
+
+/* 辅助文字 */
+.tcw_auxiliary_text {
+  color: rgb(125, 70 ,245);
+  font-size: 12px;
+}
+
+/* 表格操作相关样式 */
+.operational_style {
+  color: rgb(125, 70 ,245);
+  cursor: pointer;
+}
+
+/* 弹窗提示语颜色 */
+.pop_up_prompt {
+  color: rgb(125, 70 ,245);
+}
+
+/* 常规颜色 */
+.tcw_color_primary {
+  color: rgb(125, 70 ,245) !important;
+}
+
+/* 边框颜色 */
+.tcw_color_border {
+  color: rgb(125, 70 ,245) !important;
+}
+
+/* 警告颜色 */
+.tcw_color_alert {
+  color: #ff381a !important
+}
+
+/* 设置主体内容背景为白色 */
+.tcw_container {
+  background: #fff;
+  /*父元素必须指定高度*/
+  margin-top: 2%;
+  padding: 3% 2%;
+  height: 90%;
+  overflow: auto;
+}
+.tcw_container.tcw_height_auto{
+  margin-top: 10px;
+  padding: 40px 2%;
+  height: auto;
+
+}
